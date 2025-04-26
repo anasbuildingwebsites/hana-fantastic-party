@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(40, 40, 71);
+    padding:10px;
+    color: rgb(58, 95, 107);
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(100, 60, 60);
+    background-color: rgb(83, 53, 110);
+    padding: 5px;
+    border-radius:10px;
+    margin: 10px;
+}
+
+main h1{
+    font-size:25px;
+    color: rgb(67, 85, 67);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(130, 177, 124);
+    padding:10px;
+}
+
+footer p{
+    background-color: rgb(110, 172, 158);
+    padding:5px;
+}
+
+.menu{
+    text-decoration: none;
+    background-color: rgb(161, 201, 97);
+    color: lightcoral;
+    padding:10px;
+    margin:15px;
+    border-radius: 10px;
+}
+
+main{
+    padding:25px;
+}
+
+.product{
+    background-color: rgb(73, 121, 114);
+    padding: 25px;
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+
+.discount{
+    background-color: cornflowerblue;
+    padding:10px;
+}
+
+.delivery{
+    background-color: cornflowerblue;
+    padding:10px;
+}
+
+.wholesale{
+    background-color: cornflowerblue;
+    padding:10px;
+}
+
+.about_us{
+    background-color: cornflowerblue;
+    padding:10px;
+}
+
+.price{
+    background-color: cornflowerblue;
+    padding:10px;
+}
+
+main a{
+    text-decoration: none;
+    background-color: lightpink;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
